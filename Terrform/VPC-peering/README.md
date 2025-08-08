@@ -1,5 +1,3 @@
-Here’s a professional and clear **`README.md`** for your project on *Configuring VPC Peering Between Two VPCs Securely*:
-
 ---
 
 # VPC Peering Between Two VPCs – Secure Configuration
